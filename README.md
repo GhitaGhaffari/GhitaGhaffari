@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GhitaGhaffari
 - 👀 I’m interested in DataScience
 - 🌱 I’m currently learning Deeplearning
-- 💞️ I’m looking from an intern for my pfe
+- 💞️ I’m looking for an intern for my pfe
 - 📫 How to reach me ghita.ghaffari8@gmail.com
 
 <!---
